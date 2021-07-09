@@ -1,0 +1,76 @@
+body{
+    
+    background-color: rgb(196, 209, 201);
+
+}
+form{
+    background-image:linear-gradient(pink,white,yellow) ;
+    
+     display: flexbox;
+     flex-direction: row;
+text-align: center;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 5px;
+    border-color: blue;
+
+}
+ 
+label{
+    color:rgb(19, 17, 17);
+    font-size: 20px;
+    font-weight: bold;
+    float: inherit;
+}
+input{
+    text-align: justify;
+    
+    
+    background-color: transparent;
+
+}
+.container{
+    margin-top: 30px;
+    line-height: 35px;
+   
+}
+.container1{
+  
+    
+   line-height: 35px;
+
+}
+.container2{
+    
+   line-height: 35px;
+   
+
+}
+.container3{
+   
+ 
+   line-height: 35px;
+   
+
+}
+.container4{
+   
+    
+   line-height: 35px;
+
+}
+button{
+    margin-top: 30px;
+    border-radius: 5px;
+    color:white;
+    width:200px;
+    height: 40px;
+    background-color: blue;
+
+
+}
+.container5{
+    line-height: 35px;
+    
+}
